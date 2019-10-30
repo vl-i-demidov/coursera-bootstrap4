@@ -56,7 +56,7 @@ body {
 .modal-header {
   background: #512DA8;
   color: floralwhite; }
-  .modal-header button, .modal-header button:hover {
+  .modal-header .close {
     color: floralwhite; }
 
 .modal-body {
